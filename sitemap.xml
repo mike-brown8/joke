@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://mike-brown8.github.io/Bigpinappl/article/2022-07-21-hello-world/</loc>
+    <loc>http://mike-brown8.github.io/joke/article/2022-07-21-hello-world/</loc>
     
     <lastmod>2022-07-21</lastmod>
     
@@ -12,7 +12,7 @@
   
 
   <url>
-    <loc>http://mike-brown8.github.io/Bigpinappl</loc>
+    <loc>http://mike-brown8.github.io/joke</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
