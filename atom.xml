@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PineappleCraft (非)官方网站</title>
+  
+  
+  <link href="http://mike-brown8.github.io/Bigpinappl/atom.xml" rel="self"/>
+  
+  <link href="http://mike-brown8.github.io/Bigpinappl/"/>
+  <updated>2022-07-21T07:45:28.286Z</updated>
+  <id>http://mike-brown8.github.io/Bigpinappl/</id>
+  
+  <author>
+    <name>Bigpineappl</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好，世界！</title>
+    <link href="http://mike-brown8.github.io/Bigpinappl/2022-07-21-hello-world/"/>
+    <id>http://mike-brown8.github.io/Bigpinappl/2022-07-21-hello-world/</id>
+    <published>2022-07-21T06:46:58.990Z</published>
+    <updated>2022-07-21T07:45:28.286Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎使用 <a href="https://hexo.io/">Hexo</a>! 这是你的第一个博文. 前往 <a href="https://hexo.io/docs/">documentation</a>(英文) 获取更多信息. 如果你在使用Hexo的时候遇到困难, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>  找到答案或者在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上询问我.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新博文"><a href="#创建一篇新博文" class="headerlink" title="创建一篇新博文"></a>创建一篇新博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新博文&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="启动服务器"><a href="#启动服务器" class="headerlink" title="启动服务器"></a>启动服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态站"><a href="#生成静态站" class="headerlink" title="生成静态站"></a>生成静态站</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远端站点"><a href="#部署到远端站点" class="headerlink" title="部署到远端站点"></a>部署到远端站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>本文翻译：<a href="https://mike-brown8.github.io/">Mike Brown</a><br>Tip:（此为译者注）<br>你其实可以直接使用此命令来生成+部署：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d -g</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎使用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! 这是你的第一个博文. 前往 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;(英文) 获取更多信息. 如果你在使用Hexo的时候遇到困难, </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
