@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://mike-brown8.github.io/joke/article/2022-07-22-1st-show/</loc>
+    
+    <lastmod>2022-07-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://mike-brown8.github.io/joke/article/2022-07-22-Qqun/</loc>
     
     <lastmod>2022-07-22</lastmod>
@@ -30,6 +39,13 @@
   
   <url>
     <loc>http://mike-brown8.github.io/joke/tags/%E5%85%AC%E5%91%8A/</loc>
+    <lastmod>2022-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://mike-brown8.github.io/joke/tags/%E5%B1%95%E7%A4%BA/</loc>
     <lastmod>2022-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

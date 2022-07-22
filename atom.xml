@@ -6,7 +6,7 @@
   <link href="http://mike-brown8.github.io/joke/atom.xml" rel="self"/>
   
   <link href="http://mike-brown8.github.io/joke/"/>
-  <updated>2022-07-22T07:34:45.581Z</updated>
+  <updated>2022-07-22T07:47:03.357Z</updated>
   <id>http://mike-brown8.github.io/joke/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一周目代表作展示</title>
+    <link href="http://mike-brown8.github.io/joke/article/2022-07-22-1st-show/"/>
+    <id>http://mike-brown8.github.io/joke/article/2022-07-22-1st-show/</id>
+    <published>2022-07-22T07:42:48.000Z</published>
+    <updated>2022-07-22T07:47:03.357Z</updated>
+    
+    <content type="html"><![CDATA[<p><em>注：这些代表作都已因一周目的关服而关闭</em></p><span id="more"></span><p><strong>临海站</strong>(随着一周目崩服而关闭）<br><img src="https://user-assets.sxlcdn.com/images/986052/FlXFlygDJrTVUAYH-PntJLc30OE0.png?imageMogr2/strip/auto-orient/thumbnail/1920x9000%3E/quality/90!/format/png"></p><p><strong>机场站</strong>(随着一周目崩服而关闭）<br><img src="https://user-assets.sxlcdn.com/images/986052/FupGR8sWxnUonl2TJpH949HxhCqN.png?imageMogr2/strip/auto-orient/thumbnail/1920x9000%3E/quality/90!/format/png"></p><p><strong>恶地站</strong>(随着一周目崩服而关闭）<br><img src="https://user-assets.sxlcdn.com/images/986052/FhBazzQhRuCtT2J31IY3KLjdDkoE.png?imageMogr2/strip/auto-orient/thumbnail/1920x9000%3E/quality/90!/format/png"></p><p><strong>沙漠站</strong>(随着一周目崩服而关闭）<br><img src="https://user-assets.sxlcdn.com/images/986052/Fof0xW35-XWbDKj3DG5CvQu7hMO5.png?imageMogr2/strip/auto-orient/thumbnail/1920x9000%3E/quality/90!/format/png"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;em&gt;注：这些代表作都已因一周目的关服而关闭&lt;/em&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="展示" scheme="http://mike-brown8.github.io/joke/tags/%E5%B1%95%E7%A4%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>欢迎加入我们的官方QQ群</title>
@@ -44,15 +63,12 @@
     <link href="http://mike-brown8.github.io/joke/article/1960-01-01-hello-world/"/>
     <id>http://mike-brown8.github.io/joke/article/1960-01-01-hello-world/</id>
     <published>1960-01-01T04:00:00.000Z</published>
-    <updated>2022-07-22T07:39:58.889Z</updated>
+    <updated>2022-07-22T07:47:58.747Z</updated>
     
-    <content type="html"><![CDATA[<p>欢迎使用 <a href="https://hexo.io/">Hexo</a>! 这是你的第一个博文. 前往 <a href="https://hexo.io/docs/">documentation</a>(英文) 获取更多信息. 如果你在使用Hexo的时候遇到困难, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>  找到答案或者在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上询问我.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新博文"><a href="#创建一篇新博文" class="headerlink" title="创建一篇新博文"></a>创建一篇新博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新博文&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="启动服务器"><a href="#启动服务器" class="headerlink" title="启动服务器"></a>启动服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态站"><a href="#生成静态站" class="headerlink" title="生成静态站"></a>生成静态站</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远端站点"><a href="#部署到远端站点" class="headerlink" title="部署到远端站点"></a>部署到远端站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>本文翻译：<a href="https://mike-brown8.github.io/">Mike Brown</a><br>Tip:（此为译者注）<br>你其实可以直接使用此命令来生成+部署：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d -g</span><br></pre></td></tr></table></figure>]]></content>
+    <content type="html"><![CDATA[<p><em>注：这是一篇博客程序的官方教程，与本服务器无关</em></p><span id="more"></span><p>欢迎使用 <a href="https://hexo.io/">Hexo</a>! 这是你的第一个博文. 前往 <a href="https://hexo.io/docs/">documentation</a>(英文) 获取更多信息. 如果你在使用Hexo的时候遇到困难, 你可以在 <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a>  找到答案或者在 <a href="https://github.com/hexojs/hexo/issues">GitHub</a> 上询问我.</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="创建一篇新博文"><a href="#创建一篇新博文" class="headerlink" title="创建一篇新博文"></a>创建一篇新博文</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;我的新博文&quot;</span></span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="启动服务器"><a href="#启动服务器" class="headerlink" title="启动服务器"></a>启动服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态站"><a href="#生成静态站" class="headerlink" title="生成静态站"></a>生成静态站</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远端站点"><a href="#部署到远端站点" class="headerlink" title="部署到远端站点"></a>部署到远端站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>本文翻译：<a href="https://mike-brown8.github.io/">Mike Brown</a><br>Tip:（此为译者注）<br>你其实可以直接使用此命令来生成+部署：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo d -g</span><br></pre></td></tr></table></figure>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;欢迎使用 &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! 这是你的第一个博文. 前往 &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;(英文) 获取更多信息. 如果你在使用Hexo的时候遇到困难, </summary>
-      
+    <summary type="html">&lt;p&gt;&lt;em&gt;注：这是一篇博客程序的官方教程，与本服务器无关&lt;/em&gt;&lt;/p&gt;</summary>
     
     
     
